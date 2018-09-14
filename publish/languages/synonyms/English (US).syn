@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+<ExcludeWordList/>
+<DirectionalSynList>
+<DirectionalSyn AllForms="1"><From>employee</From><To>time</To></DirectionalSyn>
+<DirectionalSyn AllForms="1"><From>master</From><To>template</To></DirectionalSyn>
+</DirectionalSynList>
+<GroupSynList/>
+</Synonyms>

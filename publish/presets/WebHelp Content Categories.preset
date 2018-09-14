@@ -1,0 +1,55 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/EmployeeCare3.toc",
+      "name": "EmployeeCare3"
+    },
+    "glossary": {
+      "path": "../../glossary/EmployeeCare3.glo",
+      "name": "EmployeeCare3"
+    },
+    "conditional": {
+      "name": "US_Content",
+      "path": "../expressions/US_Content.expn"
+    },
+    "variable": {
+      "name": "US",
+      "path": "../variablesets/US.var"
+    },
+    "masterpage": "",
+    "brs": [
+      {
+        "name": "HR_Policies_and_Procedures",
+        "path": "../browsesequence/HR_Policies_and_Procedures.brs"
+      }
+    ]
+  },
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/WebHelp_Content_Categories",
+  "starterPage": "index.htm",
+  "search": {
+    "fileTypes": {},
+    "fuzzy": true,
+    "suggestion": true,
+    "context": false,
+    "glossary": true,
+    "contextLimit": "100"
+  },
+  "sitemap": {
+    "use": false,
+    "changeFrequency": ""
+  },
+  "name": "WebHelp Content Categories",
+  "type": "webhelp",
+  "title": "Employee Care",
+  "defaultTopic": {
+    "name": "employee_care/introduction_empcare.htm",
+    "path": "../../contents/employee_care/introduction_empcare.htm"
+  },
+  "glosstermEffect": 0,
+  "createThumbNails": true,
+  "skin": {
+    "name": "Azure_web",
+    "path": "../skins/Azure_web/webhelp.skn"
+  }
+}
