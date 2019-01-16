@@ -1,4 +1,4 @@
-﻿/*Created with Adobe RoboHelp 2017.*/
+/*Created with Adobe RoboHelp 2017.*/
 p.BodyLevel1 {
 	margin-left: 18.000pt;
 	margin-right: 0.000pt;
@@ -363,10 +363,6 @@ table.CellBorder {
 	border-left: Solid 1px #000000;
 	x-border-spacing: 0px;
 }
-table.CellBorder td {
-	border-right: Solid 1px #000000;
-	border-bottom: Solid 1px #000000;
-}
 table.Colorful1 {
 	padding: 0px;
 	border-left-style: Solid;
@@ -377,44 +373,7 @@ table.Colorful1 {
 	border-top-color: #000000;
 	x-border-spacing: 0px;
 	x-1st-row: 1;
-	x-1st-row-name: row1;
 	x-1st-col: 1;
-	x-1st-col-name: col1;
-}
-table.Colorful1 tr.row1 td {
-	background-color: #800000;
-	padding-right: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	color: #ffffff;
-}
-table.Colorful1 td.col1 {
-	background-color: #c0c0c0;
-	padding-right: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.Colorful1 td {
-	padding-right: 10px;
-	padding-left: 10px;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 }
 table.Colorful2 {
 	padding: 0px;
@@ -426,45 +385,7 @@ table.Colorful2 {
 	border-top-color: #000000;
 	x-border-spacing: 0px;
 	x-1st-row: 1;
-	x-1st-row-name: row1;
 	x-1st-col: 1;
-	x-1st-col-name: col1;
-}
-table.Colorful2 tr.row1 td {
-	background-color: #000080;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-	color: #ffffff;
-}
-table.Colorful2 td.col1 {
-	background-color: #0000ff;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	font-weight: bold;
-	padding-left: 10px;
-	color: #ffffff;
-}
-table.Colorful2 td {
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	padding-left: 10px;
 }
 table.Colorful3 {
 	padding: 0px;
@@ -476,31 +397,6 @@ table.Colorful3 {
 	border-top-color: #ffffff;
 	x-border-spacing: 0px;
 	x-1st-row: 1;
-	x-1st-row-name: row1;
-}
-table.Colorful3 tr.row1 td {
-	background-color: #000080;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-	color: #ffffff;
-}
-table.Colorful3 td {
-	background-color: #c0c0c0;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #ffffff;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #ffffff;
-	padding-right: 10px;
-	padding-left: 10px;
 }
 table.Colorful4 {
 	padding: 0px;
@@ -512,51 +408,10 @@ table.Colorful4 {
 	border-top-color: #000000;
 	x-border-spacing: 0px;
 	x-1st-row: 1;
-	x-1st-row-name: row1;
 	x-1st-col: 1;
-	x-1st-col-name: col1;
-}
-table.Colorful4 tr.row1 td {
-	background-color: #008000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-	color: #ffffff;
-}
-table.Colorful4 td.col1 {
-	background-color: #ffff00;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	font-weight: bold;
-	padding-left: 10px;
-}
-table.Colorful4 td {
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	padding-right: 10px;
-	padding-left: 10px;
 }
 table.LastColumn {
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	border-left-style: Solid;
 	border-left-width: 1px;
 	border-left-color: #000000;
@@ -571,58 +426,7 @@ table.LastColumn {
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
 	x-last-col: 1;
-	x-last-col-name: last;
 	text-align: Right;
-	font-size: 10pt;
-}
-table.LastColumn tr.t1Row td {
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.LastColumn tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LastColumn td.last {
-	background-color: #c0c0c0;
-	font-family: Arial;
-	text-align: Right;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 	font-size: 10pt;
 }
 table.lastcolumn tr.t1row td.last {
@@ -671,26 +475,9 @@ table.LastRow {
 	border-top-color: #000000;
 	x-border-spacing: 0px;
 	x-last-row: 1;
-	x-last-row-name: last;
 	text-align: Right;
 	font-family: Arial;
 	font-size: 10pt;
-}
-table.LastRow td {
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.LastRow tr.last td {
-	text-align: Right;
-	font-family: Arial;
-	font-size: 10pt;
-	background-color: #c0c0c0;
 }
 table.BottomRowRightColumn {
 	padding: 0px;
@@ -701,58 +488,11 @@ table.BottomRowRightColumn {
 	border-top-width: 1px;
 	border-top-color: #000000;
 	x-last-row: 1;
-	x-last-row-name: last;
 	text-align: Right;
 	font-family: Arial;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-last-col: 1;
-	x-last-col-name: last;
-}
-table.BottomRowRightColumn td {
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.BottomRowRightColumn tr.last td {
-	text-align: Right;
-	font-family: Arial;
-	font-size: 10pt;
-	background-color: #c0c0c0;
-}
-table.BottomRowRightColumn tr.t1Row td {
-	text-align: Right;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.BottomRowRightColumn tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.BottomRowRightColumn td.last {
-	text-align: Right;
-	background-color: #c0c0c0;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.BottomRowRightColumn tr.t1row td.last {
-	text-align: Right;
-	background-color: #c0c0c0;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.BottomRowRightColumn tr.t2row td.last {
-	text-align: Right;
-	background-color: #c0c0c0;
-	font-family: Arial;
-	font-size: 10pt;
 }
 table.LeftColumn {
 	border-left-style: Solid;
@@ -768,63 +508,8 @@ table.LeftColumn {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-col: 1;
-	x-1st-col-name: t1st;
-}
-table.LeftColumn tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumn tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumn td.t1st {
-	background-color: #cccccc;
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-weight: bold;
 }
 table.leftcolumn tr.t1row td.t1st {
 	background-color: #cccccc;
@@ -876,68 +561,9 @@ table.LeftColumnAlternatingColumns {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-col: 1;
-	x-1st-col-name: t1st;
-	x-col-pat-1: 1;
-	x-col-pat-1-name: t1Col;
 	x-col-pat-count: 2;
-	x-col-pat-2: 1;
-	x-col-pat-2-name: t2Col;
-}
-table.LeftColumnAlternatingColumns tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumnAlternatingColumns tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumnAlternatingColumns td.t1st {
-	font-family: Arial;
-	font-size: 10pt;
-	font-weight: bold;
-	background-color: #cccccc;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 }
 table.leftcolumnalternatingcolumns tr.t1row td.t1st {
 	font-family: Arial;
@@ -975,25 +601,6 @@ table.leftcolumnalternatingcolumns tr.t2row td.t1st {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 }
-table.LeftColumnAlternatingColumns td.t1Col {
-	background-color: #ccffcc;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.LeftColumnAlternatingColumns td.t2Col {
-}
 table.LeftColumnRepeatingColumns {
 	border-left-style: Solid;
 	border-left-width: 1px;
@@ -1008,70 +615,10 @@ table.LeftColumnRepeatingColumns {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-col: 1;
-	x-1st-col-name: t1st;
-	x-col-pat-1: 1;
-	x-col-pat-1-name: t1Col;
 	x-col-pat-2: 1;
-	x-col-pat-2-name: t2Col;
-	x-col-pat-count: 3;
 	x-col-pat-3: 1;
-	x-col-pat-3-name: t3Col;
-}
-table.LeftColumnRepeatingColumns tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumnRepeatingColumns tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.LeftColumnRepeatingColumns td.t1st {
-	background-color: #808080;
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-weight: bold;
 }
 table.leftcolumnrepeatingcolumns tr.t1row td.t1st {
 	background-color: #808080;
@@ -1109,20 +656,6 @@ table.leftcolumnrepeatingcolumns tr.t2row td.t1st {
 	border-bottom-color: #000000;
 	font-weight: bold;
 }
-table.LeftColumnRepeatingColumns td.t1Col {
-	background-color: #cccccc;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.LeftColumnRepeatingColumns td.t2Col {
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.LeftColumnRepeatingColumns td.t3Col {
-	background-color: #ccffcc;
-	font-family: Arial;
-	font-size: 10pt;
-}
 table.Line1 {
 	padding: 0px;
 	border-bottom-style: Solid;
@@ -1133,12 +666,6 @@ table.Line1 {
 	border-top-color: #008000;
 	x-border-spacing: 0px;
 	x-1st-row: 1;
-	x-1st-row-name: row1;
-}
-table.Line1 tr.row1 td {
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #008000;
 }
 table.PaddedCells {
 	border-left-style: Solid;
@@ -1153,73 +680,12 @@ table.PaddedCells {
 	border-bottom-style: Solid;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-border-spacing: 2px;
-}
-table.PaddedCells tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.PaddedCells tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.PaddedCells td {
-	padding-left: 5px;
-	padding-right: 5px;
-	padding-top: 5px;
-	padding-bottom: 5px;
 }
 table.Retro7 {
 	x-border-spacing: 15px;
-	x-row-pat-count: 1;
 	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
-}
-table.Retro7 tr.t1Row td {
-	background-color: #c0c0c0;
-	border-top-style: Groove;
-	border-bottom-style: Groove;
-	border-left-width: 1px;
-	border-top-color: #00ff00;
-	border-top-width: 4px;
-	border-right-width: 1px;
-	border-bottom-color: #00ff00;
-	border-bottom-width: 4px;
-}
-table.Retro7 td {
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 0px;
-	padding-bottom: 0px;
 }
 table.ShadedAlternatingColumns {
 	border-left-style: Solid;
@@ -1235,70 +701,8 @@ table.ShadedAlternatingColumns {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
-	x-col-pat-1: 1;
-	x-col-pat-1-name: t1Col;
 	x-col-pat-count: 2;
-	x-col-pat-2: 1;
-	x-col-pat-2-name: t2Col;
-}
-table.ShadedAlternatingColumns tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.ShadedAlternatingColumns tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.ShadedAlternatingColumns td.t1Col {
-	background-color: #ccffcc;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-family: Arial;
-	font-size: 10pt;
-}
-table.ShadedAlternatingColumns td.t2Col {
-	background-color: #cccccc;
-	font-family: Arial;
-	font-size: 10pt;
 }
 table.ShadedAlternatingRows {
 	border-left-style: Solid;
@@ -1314,45 +718,7 @@ table.ShadedAlternatingRows {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
-}
-table.ShadedAlternatingRows tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	background-color: #ccffcc;
-}
-table.ShadedAlternatingRows tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	background-color: #cccccc;
 }
 table.SimpleBorder {
 	padding: 0px;
@@ -1364,17 +730,8 @@ table.SimpleBorder {
 	border-top-color: #000000;
 	x-border-spacing: 0px;
 }
-table.SimpleBorder td {
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
 table.TopRow {
 	x-1st-row: 1;
-	x-1st-row-name: t1st;
 	border-left-style: Solid;
 	border-left-width: 1px;
 	border-left-color: #000000;
@@ -1388,62 +745,7 @@ table.TopRow {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
-}
-table.TopRow tr.t1st td {
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-family: Arial;
-	font-size: 10pt;
-	background-color: #c0c0c0;
-	font-weight: bold;
-	text-align: Center;
-}
-table.TopRow tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRow tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 }
 table.TopRowRepeatingRows {
 	border-left-style: Solid;
@@ -1459,84 +761,9 @@ table.TopRowRepeatingRows {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-row: 1;
-	x-1st-row-name: t1st;
-	x-row-pat-count: 3;
 	x-row-pat-3: 1;
-	x-row-pat-3-name: t3Row;
-}
-table.TopRowRepeatingRows tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	background-color: #ccffcc;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowRepeatingRows tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	background-color: #cccccc;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowRepeatingRows tr.t1st td {
-	font-family: Arial;
-	font-size: 10pt;
-	font-weight: bold;
-	text-align: Center;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	background-color: #808080;
-}
-table.TopRowRepeatingRows tr.t3Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 }
 table.TopRowAlternatingRows {
 	border-left-style: Solid;
@@ -1552,65 +779,8 @@ table.TopRowAlternatingRows {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-row: 1;
-	x-1st-row-name: t1st;
-}
-table.TopRowAlternatingRows tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	background-color: #ccffcc;
-}
-table.TopRowAlternatingRows tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowAlternatingRows tr.t1st td {
-	text-align: Center;
-	font-family: Arial;
-	font-size: 10pt;
-	font-weight: bold;
-	background-color: #c0c0c0;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
 }
 table.TopRowLeftColumn {
 	border-left-style: Solid;
@@ -1626,85 +796,9 @@ table.TopRowLeftColumn {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	x-border-spacing: 0px;
-	x-row-pat-1: 1;
-	x-row-pat-1-name: t1Row;
 	x-row-pat-count: 2;
-	x-row-pat-2: 1;
-	x-row-pat-2-name: t2Row;
 	x-1st-row: 1;
-	x-1st-row-name: t1st;
 	x-1st-col: 1;
-	x-1st-col-name: t1st;
-}
-table.TopRowLeftColumn tr.t1Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowLeftColumn tr.t2Row td {
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowLeftColumn tr.t1st td {
-	font-family: Arial;
-	font-size: 10pt;
-	font-weight: bold;
-	background-color: #808080;
-	text-align: Center;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-}
-table.TopRowLeftColumn td.t1st {
-	text-align: Center;
-	background-color: #808080;
-	font-family: Arial;
-	font-size: 10pt;
-	border-left-style: Solid;
-	border-left-width: 1px;
-	border-left-color: #000000;
-	border-right-style: Solid;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-top-style: Solid;
-	border-top-width: 1px;
-	border-top-color: #000000;
-	border-bottom-style: Solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	font-weight: bold;
 }
 table.toprowleftcolumn tr.t1row td.t1st {
 	text-align: Center;
@@ -1743,4 +837,134 @@ table.toprowleftcolumn tr.t2row td.t1st {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	font-weight: bold;
+}
+table.CellBorder td {border-right: Solid 1px #000000;border-bottom: Solid 1px #000000;
+}
+table.Colorful1 tr:first-child td {background-color: #800000;padding-right: 10px;padding-left: 10px;font-weight: bold;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;color: #ffffff;
+}
+table.Colorful1 td:first-child {background-color: #c0c0c0;padding-right: 10px;padding-left: 10px;font-weight: bold;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.Colorful1 td {padding-right: 10px;padding-left: 10px;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.Colorful2 tr:first-child td {background-color: #000080;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;padding-left: 10px;font-weight: bold;color: #ffffff;
+}
+table.Colorful2 td:first-child {background-color: #0000ff;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;font-weight: bold;padding-left: 10px;color: #ffffff;
+}
+table.Colorful2 td {border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;padding-left: 10px;
+}
+table.Colorful3 tr:first-child td {background-color: #000080;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;padding-left: 10px;font-weight: bold;color: #ffffff;
+}
+table.Colorful3 td {background-color: #c0c0c0;border-right-style: Solid;border-right-width: 1px;border-right-color: #ffffff;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #ffffff;padding-right: 10px;padding-left: 10px;
+}
+table.Colorful4 tr:first-child td {background-color: #008000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;padding-left: 10px;font-weight: bold;color: #ffffff;
+}
+table.Colorful4 td:first-child {background-color: #ffff00;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;font-weight: bold;padding-left: 10px;
+}
+table.Colorful4 td {border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-right: 10px;padding-left: 10px;
+}
+table.LastColumn tr:nth-child(2n+1) td {border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-family: Arial;font-size: 10pt;
+}
+table.LastColumn tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LastColumn td:last-child {background-color: #c0c0c0;font-family: Arial;text-align: Right;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-size: 10pt;
+}
+table.LastRow td {border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-family: Arial;font-size: 10pt;
+}
+table.LastRow tr:last-child td {text-align: Right;font-family: Arial;font-size: 10pt;background-color: #c0c0c0;
+}
+table.BottomRowRightColumn td {border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.BottomRowRightColumn tr:last-child td {text-align: Right;font-family: Arial;font-size: 10pt;background-color: #c0c0c0;
+}
+table.BottomRowRightColumn tr:nth-child(2n+1) td {text-align: Right;font-family: Arial;font-size: 10pt;
+}
+table.BottomRowRightColumn tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;
+}
+table.BottomRowRightColumn td:last-child {text-align: Right;background-color: #c0c0c0;font-family: Arial;font-size: 10pt;
+}
+table.BottomRowRightColumn tr.t1row td:last-child {text-align: Right;background-color: #c0c0c0;font-family: Arial;font-size: 10pt;
+}
+table.BottomRowRightColumn tr.t2row td:last-child {text-align: Right;background-color: #c0c0c0;font-family: Arial;font-size: 10pt;
+}
+table.LeftColumn tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumn tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumn td:first-child {background-color: #cccccc;font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-weight: bold;
+}
+table.LeftColumnAlternatingColumns tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumnAlternatingColumns tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumnAlternatingColumns td:first-child {font-family: Arial;font-size: 10pt;font-weight: bold;background-color: #cccccc;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumnAlternatingColumns td:nth-child(2n+1) {background-color: #ccffcc;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-family: Arial;font-size: 10pt;
+}
+table.LeftColumnAlternatingColumns td:nth-child(2n+2) {
+}
+table.LeftColumnRepeatingColumns tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumnRepeatingColumns tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.LeftColumnRepeatingColumns td:first-child {background-color: #808080;font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-weight: bold;
+}
+table.LeftColumnRepeatingColumns td:nth-child(3n+1) {background-color: #cccccc;font-family: Arial;font-size: 10pt;
+}
+table.LeftColumnRepeatingColumns td:nth-child(3n+2) {font-family: Arial;font-size: 10pt;
+}
+table.LeftColumnRepeatingColumns td:nth-child(3n+3) {background-color: #ccffcc;font-family: Arial;font-size: 10pt;
+}
+table.Line1 tr:first-child td {border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #008000;
+}
+table.PaddedCells tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.PaddedCells tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.PaddedCells td {padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;
+}
+table.Retro7 tr:nth-child(1n+1) td {background-color: #c0c0c0;border-top-style: Groove;border-bottom-style: Groove;border-left-width: 1px;border-top-color: #00ff00;border-top-width: 4px;border-right-width: 1px;border-bottom-color: #00ff00;border-bottom-width: 4px;
+}
+table.Retro7 td {padding-left: 10px;padding-right: 10px;padding-top: 0px;padding-bottom: 0px;
+}
+table.ShadedAlternatingColumns tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.ShadedAlternatingColumns tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.ShadedAlternatingColumns td:nth-child(2n+1) {background-color: #ccffcc;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-family: Arial;font-size: 10pt;
+}
+table.ShadedAlternatingColumns td:nth-child(2n+2) {background-color: #cccccc;font-family: Arial;font-size: 10pt;
+}
+table.ShadedAlternatingRows tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;background-color: #ccffcc;
+}
+table.ShadedAlternatingRows tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;background-color: #cccccc;
+}
+table.SimpleBorder td {border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRow tr:first-child td {border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-family: Arial;font-size: 10pt;background-color: #c0c0c0;font-weight: bold;text-align: Center;
+}
+table.TopRow tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRow tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowRepeatingRows tr:nth-child(3n+1) td {font-family: Arial;font-size: 10pt;background-color: #ccffcc;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowRepeatingRows tr:nth-child(3n+2) td {font-family: Arial;font-size: 10pt;background-color: #cccccc;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowRepeatingRows tr:first-child td {font-family: Arial;font-size: 10pt;font-weight: bold;text-align: Center;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;background-color: #808080;
+}
+table.TopRowRepeatingRows tr:nth-child(3n+3) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowAlternatingRows tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;background-color: #ccffcc;
+}
+table.TopRowAlternatingRows tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowAlternatingRows tr:first-child td {text-align: Center;font-family: Arial;font-size: 10pt;font-weight: bold;background-color: #c0c0c0;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowLeftColumn tr:nth-child(2n+1) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowLeftColumn tr:nth-child(2n+2) td {font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowLeftColumn tr:first-child td {font-family: Arial;font-size: 10pt;font-weight: bold;background-color: #808080;text-align: Center;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;
+}
+table.TopRowLeftColumn td:first-child {text-align: Center;background-color: #808080;font-family: Arial;font-size: 10pt;border-left-style: Solid;border-left-width: 1px;border-left-color: #000000;border-right-style: Solid;border-right-width: 1px;border-right-color: #000000;border-top-style: Solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #000000;font-weight: bold;
 }

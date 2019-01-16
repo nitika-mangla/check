@@ -1,55 +1,56 @@
-{
-  "content": {
-    "index": true,
-    "toc": {
-      "path": "../../toc/r y r rt y.toc",
-      "name": "r y r rt y"
-    },
-    "glossary": {
-      "path": "../../glossary/EmployeeCare3.glo",
-      "name": "EmployeeCare3"
-    },
-    "variable": {
-      "name": "Dynamic Filtering",
-      "path": "../variablesets/Dynamic Filtering.var"
-    },
-    "masterpage": {
-      "name": "New Master Page",
-      "path": "../../contents/assets/masterpages/New Master Page.htt"
-    },
-    "brs": [
-      {
-        "name": "Author_Info",
-        "path": "../browsesequence/Author_Info.brs"
-      },
-      {
-        "name": "HR_Policies_and_Procedures",
-        "path": "../browsesequence/HR_Policies_and_Procedures.brs"
-      }
-    ]
-  },
-  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/ResponsiveHTML5",
-  "starterPage": "index.htm",
-  "search": {
-    "context": true,
-    "contextLimit": "100"
-  },
-  "sitemap": {
-    "use": true,
-    "changeFrequency": "Monthly",
-    "helpBaseURL": ""
-  },
-  "skin": {
-    "name": "Azure_Blue",
-    "path": "../skins/Azure_Blue/html5.skn"
-  },
-  "name": "Responsive HTML5",
-  "type": "html5",
-  "title": "Employee Care 3",
-  "defaultTopic": {
-    "name": "Employee_Care/Introduction.htm",
-    "path": "../../contents/Employee_Care/Introduction.htm"
-  },
-  "glosstermEffect": 0,
-  "createThumbNails": true
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/r y r rt y.toc</path>
+      <name>r y r rt y</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <variable>
+      <name>Dynamic Filtering</name>
+      <path>../variablesets/Dynamic Filtering.var</path>
+    </variable>
+    <masterpage>
+      <name>New Master Page</name>
+      <path>../../contents/assets/masterpages/New Master Page.htt</path>
+    </masterpage>
+    <brs type="array">
+      <brsitem>
+        <name>Author_Info</name>
+        <path>../browsesequence/Author_Info.brs</path>
+      </brsitem>
+      <brsitem>
+        <name>HR_Policies_and_Procedures</name>
+        <path>../browsesequence/HR_Policies_and_Procedures.brs</path>
+      </brsitem>
+    </brs>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/ResponsiveHTML5</outputPath>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+  </search>
+  <sitemap>
+    <use type="boolean">true</use>
+    <changeFrequency>Monthly</changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <skin>
+    <name>Azure_Blue</name>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
+  <name>Responsive HTML5</name>
+  <type>html5</type>
+  <title>Employee Care 3</title>
+  <defaultTopic>
+    <name>Employee_Care/Introduction.htm</name>
+    <path>../../contents/Employee_Care/Introduction.htm</path>
+  </defaultTopic>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">true</createThumbNails>
+</preset>

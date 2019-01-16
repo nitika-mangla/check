@@ -1,55 +1,56 @@
-{
-  "content": {
-    "index": true,
-    "toc": {
-      "path": "../../toc/EmployeeCare3.toc",
-      "name": "EmployeeCare3"
-    },
-    "glossary": {
-      "path": "../../glossary/EmployeeCare3.glo",
-      "name": "EmployeeCare3"
-    },
-    "conditional": {
-      "name": "Author_Only_Content",
-      "path": "../expressions/Author_Only_Content.expn"
-    },
-    "variable": {
-      "name": "US",
-      "path": "../variablesets/US.var"
-    },
-    "masterpage": "",
-    "brs": [
-      {
-        "name": "Author_Info",
-        "path": "../browsesequence/Author_Info.brs"
-      }
-    ]
-  },
-  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/WebHelp_for_Authors",
-  "starterPage": "index.htm",
-  "search": {
-    "fileTypes": {},
-    "fuzzy": true,
-    "suggestion": true,
-    "context": false,
-    "glossary": true,
-    "contextLimit": "100"
-  },
-  "sitemap": {
-    "use": false,
-    "changeFrequency": ""
-  },
-  "name": "WebHelp for Authors",
-  "type": "webhelp",
-  "title": "Employee Care",
-  "defaultTopic": {
-    "name": "employee_care/introduction_empcare.htm",
-    "path": "../../contents/employee_care/introduction_empcare.htm"
-  },
-  "glosstermEffect": 0,
-  "createThumbNails": true,
-  "skin": {
-    "name": "Azure_web",
-    "path": "../skins/Azure_web/webhelp.skn"
-  }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/EmployeeCare3.toc</path>
+      <name>EmployeeCare3</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <conditional>
+      <name>Author_Only_Content</name>
+      <path>../expressions/Author_Only_Content.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage></masterpage>
+    <brs type="array">
+      <brsitem>
+        <name>Author_Info</name>
+        <path>../browsesequence/Author_Info.brs</path>
+      </brsitem>
+    </brs>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/WebHelp_for_Authors</outputPath>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <fileTypes></fileTypes>
+    <fuzzy type="boolean">true</fuzzy>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <glossary type="boolean">true</glossary>
+    <contextLimit>100</contextLimit>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>WebHelp for Authors</name>
+  <type>webhelp</type>
+  <title>Employee Care</title>
+  <defaultTopic>
+    <name>employee_care/introduction_empcare.htm</name>
+    <path>../../contents/employee_care/introduction_empcare.htm</path>
+  </defaultTopic>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">true</createThumbNails>
+  <skin>
+    <name>Azure_web</name>
+    <path>../skins/Azure_web/webhelp.skn</path>
+  </skin>
+</preset>

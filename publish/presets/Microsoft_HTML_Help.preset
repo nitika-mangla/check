@@ -1,44 +1,45 @@
-{
-  "content": {
-    "index": true,
-    "toc": {
-      "path": "../../toc/EmployeeCare3.toc",
-      "name": "EmployeeCare3"
-    },
-    "glossary": {
-      "path": "../../glossary/EmployeeCare3.glo",
-      "name": "EmployeeCare3"
-    },
-    "conditional": {
-      "name": "US_Content",
-      "path": "../expressions/US_Content.expn"
-    },
-    "variable": {
-      "name": "US",
-      "path": "../variablesets/US.var"
-    },
-    "masterpage": "",
-    "brs": [],
-    "language": {
-      "name": "da_DK",
-      "displayName": "Danish (Denmark)",
-      "code": 2054
-    }
-  },
-  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Microsoft_HTML_Help_US",
-  "starterPage": "employeecare_us.chm",
-  "search": {
-    "context": false
-  },
-  "sitemap": {
-    "use": false,
-    "changeFrequency": ""
-  },
-  "name": "Microsoft_HTML_Help",
-  "type": "chm",
-  "title": "rh9_p_and_p_sample",
-  "defaultTopic": {
-    "name": "Employee_Care/Introduction.htm",
-    "path": "../../contents/Employee_Care/Introduction.htm"
-  }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/EmployeeCare3.toc</path>
+      <name>EmployeeCare3</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <conditional>
+      <name>US_Content</name>
+      <path>../expressions/US_Content.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+    <language>
+      <name>da_DK</name>
+      <displayName>Danish (Denmark)</displayName>
+      <code type="number">2054</code>
+    </language>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Microsoft_HTML_Help_US</outputPath>
+  <starterPage>employeecare_us.chm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Microsoft_HTML_Help</name>
+  <type>chm</type>
+  <title>rh9_p_and_p_sample</title>
+  <defaultTopic>
+    <name>Employee_Care/Introduction.htm</name>
+    <path>../../contents/Employee_Care/Introduction.htm</path>
+  </defaultTopic>
+</preset>

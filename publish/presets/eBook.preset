@@ -1,39 +1,40 @@
-{
-  "content": {
-    "index": true,
-    "toc": {
-      "path": "../../toc/eBook.toc",
-      "name": "eBook"
-    },
-    "glossary": {
-      "path": "../../glossary/eBook.glo",
-      "name": "eBook"
-    },
-    "conditional": {
-      "name": "eBook_Content",
-      "path": "../expressions/eBook_Content.expn"
-    },
-    "variable": {
-      "name": "US",
-      "path": "../variablesets/US.var"
-    },
-    "masterpage": {
-      "name": "EmployeeCare_eBook",
-      "path": "../../contents/assets/masterpages/EmployeeCare_eBook.htt"
-    },
-    "brs": []
-  },
-  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/eBook",
-  "starterPage": "EmployeeCareRh.epub",
-  "search": {
-    "context": false
-  },
-  "sitemap": {
-    "use": false,
-    "changeFrequency": ""
-  },
-  "name": "eBook",
-  "type": "epub",
-  "title": "Policies and Procedures",
-  "defaultTopic": ""
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/eBook.toc</path>
+      <name>eBook</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/eBook.glo</path>
+      <name>eBook</name>
+    </glossary>
+    <conditional>
+      <name>eBook_Content</name>
+      <path>../expressions/eBook_Content.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage>
+      <name>EmployeeCare_eBook</name>
+      <path>../../contents/assets/masterpages/EmployeeCare_eBook.htt</path>
+    </masterpage>
+    <brs type="array"></brs>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/eBook</outputPath>
+  <starterPage>EmployeeCareRh.epub</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>eBook</name>
+  <type>epub</type>
+  <title>Policies and Procedures</title>
+  <defaultTopic></defaultTopic>
+</preset>

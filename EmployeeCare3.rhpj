@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="2019.0.1">
+<project version="2019.0.5">
 <title>EmployeeCare3</title>
 <preferences>
 <language>en_US</language>
 <noInlineStyle>false</noInlineStyle>
 <defaultCss>contents/assets/css/empcare-epub.css</defaultCss>
-<defaultWsf></defaultWsf></preferences>
+<defaultWsf></defaultWsf>
+<defaultFsf></defaultFsf></preferences>
 <statuslist>
 <status>Draft</status>
 <status>In Progress</status>
@@ -43,5 +44,6 @@
 <snippets root="contents/assets/snippets"></snippets>
 <glossary root="glossary"></glossary>
 <index root="index"></index>
+<seealso root="undefined"></seealso>
 <variable root="variable"></variable>
 <condition root="condition"></condition></project>
